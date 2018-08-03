@@ -1,10 +1,11 @@
 # vue-line-canvas
 
-# install
+# Install
 npm install vue-line-canvas
 
 # How to use
 
+```html
 <template>
   <div>
       <LineCanvas :canvasWidth="canvasWidth" 
@@ -33,3 +34,4 @@ export default {
   }
 }
 </script>
+```
